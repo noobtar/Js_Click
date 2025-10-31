@@ -4,19 +4,6 @@
 // @version      2025-10-29
 // @description  try to take over the world!
 // @author       You
-// @match        https://smartbmn.cdd.go.th/FromHouseAnswer?villageId=80120500401&houseDataId=513027&indicator=1
-// @match        https://smartbmn.cdd.go.th/FromHouseAnswer?villageId=80120500401&houseDataId=513027&indicator=6
-// @match        https://smartbmn.cdd.go.th/FromHouseAnswer?villageId=80120500401&houseDataId=513027&indicator=7
-// @match        https://smartbmn.cdd.go.th/FromHouseAnswer?villageId=80120500401&houseDataId=513027&indicator=8
-// @match        https://smartbmn.cdd.go.th/FromHouseAnswer?villageId=80120500401&houseDataId=513027&indicator=11
-// @match        https://smartbmn.cdd.go.th/FromHouseAnswer?villageId=80120500401&houseDataId=513027&indicator=12
-// @match        https://smartbmn.cdd.go.th/FromHouseAnswer?villageId=80120500401&houseDataId=513027&indicator=13
-// @match        https://smartbmn.cdd.go.th/FromHouseAnswer?villageId=80120500401&houseDataId=513027&indicator=14
-// @match        https://smartbmn.cdd.go.th/FromHouseAnswer?villageId=80120500401&houseDataId=513027&indicator=15
-// @match        https://smartbmn.cdd.go.th/FromHouseAnswer?villageId=80120500401&houseDataId=513027&indicator=16
-// @match        https://smartbmn.cdd.go.th/FromHouseAnswer?villageId=80120500401&houseDataId=513027&indicator=17
-// @match        https://smartbmn.cdd.go.th/FromHouseAnswer?villageId=80120500401&houseDataId=513027&indicator=18
-// @match        https://smartbmn.cdd.go.th/FromHouseAnswer?villageId=80120500401&houseDataId=513027&indicator=20
 // @match https://smartbmn.cdd.go.th/FromHouseAnswer?villageId=*
 // @match https://smartbmn.cdd.go.th*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=go.th
@@ -89,3 +76,4 @@
 
 })
 ();
+
